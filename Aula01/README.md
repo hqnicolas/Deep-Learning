@@ -36,14 +36,26 @@
 
 ### 4.1. Detecção de Lixos
 * Utilização de redes profundas para identificação e classificação de resíduos/embalagens em imagens (ex: *Packaged goods*, garrafas, latas).
+
+<img width="995" height="664" alt="image" src="https://github.com/user-attachments/assets/2862949d-2e6e-4feb-824a-5e9c201ab814" />
+
+  
 * **Referência:** [Computer Vision for Garbage Detection (Medium)](https://medium.com/ramudroid/computer-vision-for-garbage-detection-136029142b3c)
 
 ### 4.2. Detecção de Animais
 * Identificação de faces e raças de animais de estimação (`dogFace`).
+
+<img width="683" height="679" alt="image" src="https://github.com/user-attachments/assets/d35338d3-2114-4b51-98ae-67e92749f1df" />
+
+  
 * **Referência:** [Deep Learning: Recognise Your Home Pets (Towards Data Science)](https://towardsdatascience.com/deep-learning-recognise-your-home-pets-82a35d524703)
 
 ### 4.3. Detecção de Fadiga em Motoristas
 * Monitoramento visual em tempo real para detecção de olhos fechados (sonolência) ou distração (uso de celular ao volante).
+
+<img width="908" height="510" alt="image" src="https://github.com/user-attachments/assets/bff79235-01b3-4f8d-bd20-d23da8671cd5" />
+
+
 * **Referência:** [Driver Drowsiness Detection System (DataFlair)](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
 
 ---
@@ -58,6 +70,8 @@
 ---
 
 ## 6. RAG (Retrieval-Augmented Generation)
+
+<img width="613" height="466" alt="image" src="https://github.com/user-attachments/assets/7f75ae75-1a77-44e5-a13f-705b4760bf04" />
 
 ### 6.1. Conceito Central
 * A ideia do RAG é buscar informações relevantes em uma base de documentos e repassá-las como contexto para a LLM.
